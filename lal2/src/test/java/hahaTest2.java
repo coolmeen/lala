@@ -6,7 +6,7 @@ public class hahaTest2 {
 
 
     @Test
-    public void lal(){
+    public void lal3(){
         Assert.fail();
     }
 

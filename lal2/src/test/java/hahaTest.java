@@ -8,7 +8,7 @@ public class hahaTest {
 
 
     @Test
-    public void lal(){
+    public void lal2(){
         Assert.fail();
     }
 
