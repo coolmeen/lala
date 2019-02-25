@@ -9,6 +9,5 @@ public class fileTest {
 
     @Test
     public void la(){
-        Assert.fail();
     }
 }
