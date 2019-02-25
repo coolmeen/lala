@@ -25,6 +25,7 @@
                 <version>2.17</version>
                 <configuration>
                     <excludesFile>../exclusions.txt</excludesFile>
+                    <includesFile>../inclusions.txt</includesFile>
                 </configuration>
 
             </plugin>
