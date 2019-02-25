@@ -8,8 +8,8 @@ public class hahaTest {
 
 
     @Test
-    public void lal2(){
-        Assert.fail();
+    public void lal3() throws InterruptedException {
+        Thread.sleep(20000);
     }
 
 }

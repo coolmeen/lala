@@ -6,8 +6,8 @@ public class haha2Test {
 
 
     @Test
-    public void lal3(){
-        Assert.fail();
+    public void lal3() throws InterruptedException {
+        Thread.sleep(20000);
     }
 
 }
