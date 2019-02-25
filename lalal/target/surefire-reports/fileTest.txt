@@ -1,8 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: fileTest
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 0.105 s <<< FAILURE! - in fileTest
-la(fileTest)  Time elapsed: 0.004 s  <<< FAILURE!
-java.lang.AssertionError
-	at fileTest.la(fileTest.java:12)
-
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.004 s - in fileTest
